@@ -95,6 +95,7 @@ import static org.schabi.newpipe.util.Localization.assureCorrectAppLanguage;
 public class MainActivity extends AppCompatActivity {
     private static final String TAG = "MainActivity";
     public static final boolean DEBUG = !BuildConfig.BUILD_TYPE.equals("release");
+    
 
     private ActionBarDrawerToggle toggle;
     private DrawerLayout drawer;

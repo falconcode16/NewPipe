@@ -54,6 +54,7 @@ import java.util.ArrayList;
  */
 @SuppressWarnings("deprecation")
 public abstract class FragmentStatePagerAdapterMenuWorkaround extends PagerAdapter {
+     public static void main(String[] args){}
     private static final String TAG = "FragmentStatePagerAdapt";
     private static final boolean DEBUG = false;
 
